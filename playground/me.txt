@@ -1,5 +1,0 @@
-{{#user}}
-Name: Priyank kumari
-Skills: HTML, CSS, JS, Next.js
-Email: thepriyanka7667@gmail.com
-{{/user}}
